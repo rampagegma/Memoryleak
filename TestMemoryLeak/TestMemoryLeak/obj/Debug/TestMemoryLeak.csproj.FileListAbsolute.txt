@@ -1,0 +1,7 @@
+c:\users\vozer\documents\visual studio 2015\Projects\TestMemoryLeak\TestMemoryLeak\bin\Debug\TestMemoryLeak.exe.config
+c:\users\vozer\documents\visual studio 2015\Projects\TestMemoryLeak\TestMemoryLeak\obj\Debug\TestMemoryLeak.Properties.Resources.resources
+c:\users\vozer\documents\visual studio 2015\Projects\TestMemoryLeak\TestMemoryLeak\obj\Debug\TestMemoryLeak.csproj.GenerateResource.Cache
+c:\users\vozer\documents\visual studio 2015\Projects\TestMemoryLeak\TestMemoryLeak\bin\Debug\TestMemoryLeak.exe
+c:\users\vozer\documents\visual studio 2015\Projects\TestMemoryLeak\TestMemoryLeak\bin\Debug\TestMemoryLeak.pdb
+c:\users\vozer\documents\visual studio 2015\Projects\TestMemoryLeak\TestMemoryLeak\obj\Debug\TestMemoryLeak.exe
+c:\users\vozer\documents\visual studio 2015\Projects\TestMemoryLeak\TestMemoryLeak\obj\Debug\TestMemoryLeak.pdb
